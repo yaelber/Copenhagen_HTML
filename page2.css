@@ -1,0 +1,53 @@
+.wrapper {
+	border: solid 1px #000099;
+}
+
+h1 {
+	text-align: center;
+	font-size: 30px;
+	font-family: "Candara";
+	color: #3333ff;
+}
+
+/*Not sure where the extra space in the left of the page is coming from*/
+.attractions {
+	font-family: "Candara";
+	margin: 20px;
+	background-color: #0000cc;
+	color: white;
+	float: left;
+}
+
+.tivoli {
+	display: inline-block;
+	width: 400px;
+	border: 2px solid #9999ff;
+	position: relative;
+	bottom: 170px;
+}
+
+.mermaid {
+	border: 2px solid #9999ff;
+	width: 300px;
+	display: inline-block;
+	position: relative;
+	bottom: 95px;
+}
+
+.castle {
+	border: 2px solid #9999ff;
+	width: 300px;
+	display: inline-block;
+}
+
+h3 {
+	font-family: "Candara";
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+h5 {
+	font-family: "Candara";
+	text-align: center;
+	color: #3333ff;
+}

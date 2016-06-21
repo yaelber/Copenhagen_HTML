@@ -1,0 +1,23 @@
+.wrapper {
+	border: solid 1px #000099;
+}
+/*float doesnt seem to make a difference here	*/
+img {
+	height: 300px;
+	width: 300px;
+	margin: 20px;
+	float: left;
+}
+
+h1 {
+	text-align: center;
+	font-size: 30px;
+	font-family: "Candara";
+	color: #3333ff;
+}
+
+h5 {
+	font-family: "Candara";
+	text-align: center;
+	color: #3333ff;
+}
